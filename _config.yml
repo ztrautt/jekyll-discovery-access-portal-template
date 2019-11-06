@@ -1,0 +1,6 @@
+# Site settings
+title: "Portal Template"
+description: "This is a jekyll template for a data curation, discovery, and access portal"
+
+baseurl: "/portal"
+rooturl: "http://localhost:4000"
